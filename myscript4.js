@@ -22,7 +22,7 @@ var person = {
   }
 };
 */
-// add properties and methods to this object using dot or bracket notation as desired
+ add properties and methods to this object using dot or bracket notation as desired
 /*
 person1.name = "Chris";
 person1["age"] = 38;
